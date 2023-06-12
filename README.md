@@ -1,3 +1,4 @@
+<img aling="right" width="4000px" src= "https://tenor.com/view/the-powerpuff-girls-blossom-waving-wave-hello-gif-24377777.gif" alt="blossom">
 <h1 align="center">Hi 👋, I'm Powerpoffgirl</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
