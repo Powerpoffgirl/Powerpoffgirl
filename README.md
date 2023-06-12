@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Powerpoffgirl/Powerpoffgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Powerpoffgirl</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
@@ -32,4 +25,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=powerpoffgirl&show_icons=true&locale=en" alt="powerpoffgirl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=powerpoffgirl&" alt="powerpoffgirl" /></p>
-
