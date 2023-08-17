@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=powerpoffgirl" alt="powerpoffgirl" /></a> </p>
 
-- 💬 Ask me about **react, redux-toolkit, javascript, HTML5, CSS3**
+- 💬 Ask me about **react, redux-toolkit, javascript, TypeScript, HTML5, CSS3, Node.js, express, JWT**
 
 - 📫 How to reach me **email.jyotisingh13@gmail.com**
 
